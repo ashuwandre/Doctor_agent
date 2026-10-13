@@ -1,0 +1,7 @@
+langchain-openai
+langgraph
+mcp
+streamlit
+apscheduler
+python-dotenv
+pymupdf

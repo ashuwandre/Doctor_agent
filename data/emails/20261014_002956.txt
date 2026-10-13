@@ -1,0 +1,14 @@
+To: ashwiniwandre89@gmail.com
+Subject: Appointment summary
+
+Appointment set with Dr Patil.
+Selected time: Evening (Friday 5 PM)
+Report summary:
+Date: 2026-10-13
+Tac: 9.6 (sample limit 5 to 8)
+Creatinine: 1.8 (sample max 1.5)
+Note: sample study report, tac and creatinine are both above the sample limits
+Tac is above the sample limit.
+Creatinine is above the sample limit.
+This is a family summary, not a medical instruction.
+

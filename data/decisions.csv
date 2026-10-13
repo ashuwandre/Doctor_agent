@@ -1,0 +1,6 @@
+timestamp,tac,creatinine,tac_high,creatinine_high,summary,action,appointment_time
+2026-09-01 10:00,6.5,1.1,no,no,Sample older report. Study data only. Tac and creatinine were inside the sample limits.,emailed summary,
+2026-10-13 23:04,9.2,1.1,yes,no,Sample high tac. Study data only.,asked for a doctor time,
+2026-10-13 23:54,6.4,1.2,no,no,Lab report values are within the normal limits. Tacrolimus level is 6.4 and creatinine level is 1.2.,emailed summary,
+2026-10-13 23:54,9.6,1.8,yes,yes,"The lab report shows tacrolimus level at 9.6 and creatinine level at 1.8, both above the normal limits. A follow-up appointment is recommended.",asked for a doctor time,
+2026-10-14 00:10,9.6,1.8,yes,yes,Both tacrolimus and creatinine levels are above the normal limits.,emailed summary,

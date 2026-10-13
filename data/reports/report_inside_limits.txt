@@ -1,0 +1,4 @@
+Date: 2026-09-15
+Tac: 6.4
+Creatinine: 1.2
+Note: sample study report, both values inside the sample limits
