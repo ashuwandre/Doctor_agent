@@ -1,0 +1,4 @@
+Patient ID: P1001
+Report Date: 22-Nov-2026
+Tac: 9.2
+Creatinine: 1.1
